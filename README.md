@@ -20,6 +20,7 @@ I used ffmpeg to export the frames from the avi video.
 ```
 ffmpeg -r 1 -i ../buzz-bin.avi -vf scale=-1:240 -r:v "1/2" "$filename%05d.png"
 ```
+Note: The reason I did $filename%05d.png was because each file was 5 digits long and I needed leading zeros. i.e. $filename00001.png vs $filename1.png
 
 This took about 10 minutes exporting all 32,470. I decided to do every other frame (because I don't need the images that show all red circles) - that is why I did "1/2" with ffmpeg above.
 
