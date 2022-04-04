@@ -1,4 +1,4 @@
-# SpaceHeroes-Buzzs-secret-watch-2
+# CTF - SpaceHeroesBuzzs secret watch 2
 
 This was of my favorite CTF challenges. I created a script that told me the RGB hex value from an image giving x,y coordinates.
 
