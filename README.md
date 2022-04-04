@@ -44,5 +44,9 @@ Once I got the binary code of all 16,235 images that outputed into output.txt I 
 
 ![alt text](https://raw.githubusercontent.com/digijeff81/SpaceHeroes-Buzzs-secret-watch-2/main/flag.jpg)
 
+```
+shctf{Th1s-Isnt-Fly1ng-THis-Is-FAlliNg-W1th-Styl3}
+```
+
 
 
