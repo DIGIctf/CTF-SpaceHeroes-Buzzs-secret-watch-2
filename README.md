@@ -1,4 +1,4 @@
-# CTF - SpaceHeroesBuzzs secret watch 2
+# CTF - SpaceHeroes Buzzs secret watch 2
 
 This was my favorite CTF challenge. I created a script that told me the RGB hex value from an image with x,y coordinates to determine the binary code.
 
